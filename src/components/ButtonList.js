@@ -1,5 +1,5 @@
 import React from 'react';
-import {Button} from '@material-i/core';
+import {Button} from '@material-ui/core';
 
 const ButtonList = () => {
     return (
